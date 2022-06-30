@@ -27,6 +27,9 @@ O projeto foi feito com dois objetivos principais:
 ### Previsão para os 12 meses subsequentes da Energia Total Despachada
 ![image](https://user-images.githubusercontent.com/95313119/156660941-17699d90-d850-4280-9388-8e19b88d833a.png)
 
+## Dashboard feito no Power BI
+![image](https://user-images.githubusercontent.com/95313119/176582979-9b042085-ba1a-4132-9b14-7615bc02894c.png)
+
 ## Conclusões
 
   Nesse projeto:
